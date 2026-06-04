@@ -33,7 +33,7 @@ export default function Dashboard() {
       
       {/* HEADER SECTION */}
       <div style={{ borderBottom: '1px solid #e5e7eb', paddingBottom: '20px', marginBottom: '30px' }}>
-        <h1 style={{ color: '#111827', margin: '0 0 5px 0' }}>🇰🇪 open-chama Dashboard</h1>
+        <h1 style={{ color: '#111827', margin: '0 0 5px 0' }}>Chama Dashboard</h1>
         <p style={{ color: '#6b7280', margin: 0 }}>Your central, open-source digital record book.</p>
       </div>
 
